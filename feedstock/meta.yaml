@@ -11,7 +11,7 @@ provenance:
       roles:
         - archive
         - doi
-  license: "Just a Test"
+  license: "Creative Commons Attribution 4.0 International"
 maintainers:
   - name: "Raphael Hagen"
     github: norlandrhagen
