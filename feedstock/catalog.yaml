@@ -7,8 +7,8 @@ tags:
 stores:
   - id: "raw_training"
     name: "GOTM: Raw training data"
-    url: "UPDATEr"
+    url: "https://nyu1.osn.mghpcc.org/leap-pangeo-manual/GOTM/raw_training_data.zarr"
 
   - id: "sf_training"
     name: "GOTM: SF training data"
-    url: "UPDATE"
+    url: "https://nyu1.osn.mghpcc.org/leap-pangeo-manual/GOTM/sf_training_data.zarr"

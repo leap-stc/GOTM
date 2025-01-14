@@ -1,0 +1,17 @@
+title: "GOTM NN Training Data"
+description: >
+  Data for NN training from Sane et al. 2023. (Parameterizing Vertical Mixing Coefficients in the Ocean Surface Boundary Layer using Neural Networks)
+recipes:
+  - id: "raw_training"
+  - id: "sf_training"
+provenance:
+  providers:
+    - name: "Zenodo"
+      description: https://zenodo.org/records/8293998
+      roles:
+        - archive
+        - doi
+  license: "Just a Test"
+maintainers:
+  - name: "Raphael Hagen"
+    github: norlandrhagen
