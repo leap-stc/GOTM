@@ -1,5 +1,4 @@
-# All the information important to cataloging.
-"ncviewjs:meta_yaml_url": "UPDATE" # !!! MAKE SURE TO POINT TO THIS REPOS meta.yaml !!!
+"ncviewjs:meta_yaml_url": "https://github.com/leap-stc/GOTM/blob/main/feedstock/meta.yaml"
 tags:
   - neural network
   - ocean surface boundary
