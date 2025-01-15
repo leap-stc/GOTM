@@ -1,6 +1,8 @@
 title: "GOTM NN Training Data"
 description: >
-  Data for NN training from Sane et al. 2023. (Parameterizing Vertical Mixing Coefficients in the Ocean Surface Boundary Layer using Neural Networks)
+  Data for NN training from Sane et al. 2023. (Parameterizing Vertical Mixing Coefficients in the Ocean Surface Boundary Layer using Neural Networks).
+  An additional text data file is available at: https://nyu1.osn.mghpcc.org/leap-pangeo-manual/GOTM/data_testing_4_paper.txt
+
 recipes:
   - id: "raw_training"
   - id: "sf_training"
